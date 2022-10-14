@@ -1,0 +1,2 @@
+# schoolProject
+my original project
